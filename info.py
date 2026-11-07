@@ -210,12 +210,12 @@ SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "shortxlinks.com")
 SHORTENER_API = environ.get("SHORTENER_API", "af2492502a6364145ea8c019324d4c14ff5d9c52")
 
 # Secondary Shortener
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "softurl.in")
-SHORTENER_API2 = environ.get("SHORTENER_API2", "e915e6a2bba1ba146f667539aec1074ee0760c14")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "nowshort.com")
+SHORTENER_API2 = environ.get("SHORTENER_API2", "866c7b8df232d60cb877be9468606be19a0b3b6e")
 
 # Tertiary Shortener
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "shortwala.com")
-SHORTENER_API3 = environ.get("SHORTENER_API3", "cf9c1c6ea3d2efd384d4d4bbfebad80f3dc9ef39")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "liteshort.com")
+SHORTENER_API3 = environ.get("SHORTENER_API3", "072eec4cdf5417ab0d91399abcb5ba4baf70a5a4")
 
 # Verification Time Gaps (in seconds)
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "200"))       # 20 minutes
