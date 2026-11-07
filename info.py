@@ -206,12 +206,12 @@ TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/+DQg8ISdFoVgzYTY9")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/+DQg8ISdFoVgzYTY9")
 
 # Primary Shortener
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "shortxlinks.com")
-SHORTENER_API = environ.get("SHORTENER_API", "af2492502a6364145ea8c019324d4c14ff5d9c52")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", "arolinks.com")
+SHORTENER_API = environ.get("SHORTENER_API", "e13ce7c3287a3f535a1db6a8fc1c3384a757139a")
 
 # Secondary Shortener
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "nowshort.com")
-SHORTENER_API2 = environ.get("SHORTENER_API2", "866c7b8df232d60cb877be9468606be19a0b3b6e")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", "arolinks.com")
+SHORTENER_API2 = environ.get("SHORTENER_API2", "e13ce7c3287a3f535a1db6a8fc1c3384a757139a")
 
 # Tertiary Shortener
 SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", "liteshort.com")
